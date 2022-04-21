@@ -23,3 +23,12 @@ code {
 .nav-link {
   color: deeppink !important;
 }
+
+.flex-container {
+  display: flex
+}
+
+.cart-button {
+  color: white !important;
+  background-color: red !important;
+}
